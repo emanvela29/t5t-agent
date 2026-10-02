@@ -1,0 +1,1 @@
+For requests to set up, draft, revise, or publish weekly Top 5 Things, read `top-five-things/SKILL.md` and follow its workflow. Other assistants can load that file directly. User-specific profiles and drafts live in `.t5t/` and must not be committed or included when distributing the skill. Do not treat a request to build or modify this tool as approval to publish a weekly report.
